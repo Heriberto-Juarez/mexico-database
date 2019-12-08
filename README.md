@@ -4,4 +4,4 @@
 
 Base de datos relacional en mysql con los 32 Estados de México, sus municipios y localidades.
 
-Extraida del INEGI
+Basada en la base de datos del INEGI
